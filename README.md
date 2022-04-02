@@ -7,7 +7,7 @@
 
 - https://huggingface.co/MUNasir/umsuka-en-zu
 
-#### Rest Of The Models:
+#### Pre-trained Models:
 
 - Arabic: https://huggingface.co/Helsinki-NLP/opus-mt-en-ar
 - chiShona: https://huggingface.co/Helsinki-NLP/opus-mt-en-sn
