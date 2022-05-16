@@ -1,4 +1,4 @@
-# Geographical-Distance-Is-The-New-Hyperparameter
+# Geographical Distance Is The New Hyperparameter: A Case Study Of Finding Optimal Pre-trained Language for English-isiZulu Machine Translation.
 
 
 ### Model Cards:
