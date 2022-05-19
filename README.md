@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/geographical-distance-is-the-new/low-resource-neural-machine-translation-on)](https://paperswithcode.com/sota/low-resource-neural-machine-translation-on?p=geographical-distance-is-the-new)
+
 # Geographical Distance Is The New Hyperparameter: A Case Study Of Finding Optimal Pre-trained Language for English-isiZulu Machine Translation.
 
 
