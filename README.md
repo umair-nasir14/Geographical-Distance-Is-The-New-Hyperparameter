@@ -20,4 +20,15 @@
 - Romance Languages: https://huggingface.co/Helsinki-NLP/opus-mt-en-ROMANCE
 - Twi: https://huggingface.co/Helsinki-NLP/opus-mt-en-tw
 
+#### Citation:
+```
+@article{umair2022geographical,
+  title={Geographical Distance Is The New Hyperparameter: A Case Study Of Finding The Optimal Pre-trained Language For English-isiZulu Machine Translation},
+  author={Umair Nasir, Muhammad and Amos Mchechesi, Innocent},
+  journal={arXiv e-prints},
+  pages={arXiv--2205},
+  year={2022}
+}
+```
+
 
